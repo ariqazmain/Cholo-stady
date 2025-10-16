@@ -17,6 +17,19 @@ nav{
 nav li{
 		border: 0.1px solid black;
 }
+.fw-bold{
+		font-family:Noto Sans Bengali;
+		
+		/*'Hind Siliguri' 
+        'Noto Sans Bengali',
+        'Nirmala UI',
+        'Shonar Bangla', 
+        'Vrinda',
+        'Kalpurush',
+        'Lohit Bengali',
+        sans-serif;*/
+;
+}
 header{
 		width: auto;
 		margin-top: 75px;
@@ -65,7 +78,7 @@ header #into h3{
 header #into h3 {
 		margin-top: 16px;
 		font-size: 18px;
-  background: linear-gradient(-90deg, #a0cfbf,#53e04f,#a507aa);
+  background: linear-gradient(-90deg,  #85ca00,#24ca00,#00ca14,#00ca29,#00ca6e,#00ca8f,#00cab5);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
