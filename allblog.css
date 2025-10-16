@@ -1,0 +1,45 @@
+#m{
+		background: linear-gradient(#5d3131d6,#5d4331d6,#5d5131d6,#5c5d31d6,#4b5d31d6,#3e5d31d6,#315d41d6,#315d4ed6,#315b5dd6,#314d5dd6,#31445dd6,#31315dd6,#47315dd6,#53315dd6,#5d315ad6);
+		font-weight: 700;
+		color: aqua;
+		padding: 2px;
+}
+#offcanvas{
+		width: 250px;
+		background-color: auto;
+}
+sup{
+		color: black;
+		background: rgba(239,244,91,0.779);
+		border-radius: 5px;
+		font-weight: 1000;
+		margin: 4px;
+}
+
+#menu{
+		height: 35px;
+		width: 45px;
+}
+#menu svg{
+		margin-left: -13px;
+		margin-top: -7px;
+		height: 35px;
+		width: 45px;
+}
+footer{
+		display: block;
+		width:auto;
+ background: linear-gradient(to left bottom, #376183f5,#313280,#533474);
+		padding-bottom: 4px;
+}
+footer a{
+		display: block;
+		text-decoration: none;
+		color: crimson;
+		font-weight: bolder;
+		text-align: center;
+}
+footer small{
+		display: block;
+		text-align: center;
+}

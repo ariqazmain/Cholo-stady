@@ -1,0 +1,194 @@
+*{
+		margin: 0;
+		padding: 0;
+}
+#progress-bar {
+height: 5px;
+background-color: red;
+width: 0%;
+position: fixed;
+top: 0;
+left: 0;
+		z-index: 1000;
+}
+nav{
+		background: linear-gradient(to right top, #bc702d,#bca72d)
+}
+nav li{
+		border: 0.1px solid black;
+}
+header{
+		width: auto;
+		margin-top: 75px;
+		margin-bottom: 0px;
+		height: auto;
+background: linear-gradient(to top left, #2eafff,#2e45ff,#762eff,#a82eff,#e82eff);
+		border-bottom: 1px solid black;
+		padding: 10px;
+}
+
+header img{
+		height: 60px;
+		width: 60px;
+		border-radius: 80px;
+		margin: 5px;
+}
+header .sin{
+		margin-top: 5px;
+		margin-right: 10px;
+		font-size: 23px;
+		background: linear-gradient(to left top, #780ff5,#0fdbf5);
+		color: lime;
+		font-weight: bolder;
+		border-radius: 9px;
+}
+
+#h{
+		color:goldenrod;
+		font-size:60px;
+		font-weight:bolder;
+		font-family: Avenir;
+}
+header #into{
+		background-color: #000636;
+		height: auto;
+		width: auto;
+		padding: 0px;
+		border-radius: 20px;
+}
+header #into h3{
+			text-align: center;
+		font-weight: bolder;
+		font-size: 25px;
+		color: chartreuse;
+}
+header #into h3 {
+		margin-top: 16px;
+		font-size: 18px;
+  background: linear-gradient(-90deg, #23ffbf,#00e74f,#a5e700);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+header #into p{
+		text-align: center;
+		font-weight: bolder;
+	  background: linear-gradient(-90deg, #d774ff,#ff74e2,#ff74bf,#ff74aa,#ff748f);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+		font-size: 18px;
+}
+.all{
+		padding: 10px;
+		background: linear-gradient(to top right, #e0e2ab,#afe2ab,#abe2dd,#aeabe2,#deabe2,#e2abab)
+}
+.all small{
+		display: block;
+		text-align: center;
+}
+.all #gh1{
+		position: sticky;
+		top: 80px;
+		left: auto;
+		right: auto;
+ font-weight: bolder;		
+}
+.all .g1{
+		height: 400px;
+		width: 180px;
+		background-image: url(i.jpg);
+		background-size: 200px;
+		background-repeat: no-repeat;
+		margin-bottom: 50px;
+		margin: 4px;
+		border: 1px solid gray;
+		border-radius: 20px;
+		box-shadow: 4px 4px 4px 4px #9596ce6a;
+}
+.all .g1 h1{
+		font-size: 24px;
+		font-weight: bolder;
+		color: aqua;
+		text-align: center
+}
+.all .g1 h1 hr{
+		display: block;
+		font-size: 24px;
+}
+.all .g1 p{
+		font-weight: bolder;
+		color: blue;
+		line-height: 20px;
+		text-align: center
+}
+.all .g1 .a{
+		margin-top: 190px;
+}
+.all .g1 a{
+		text-decoration: none;
+}
+.all .pro1{
+		height: 400px;
+		width: 180px;
+		background-image: url(im.jpeg);
+		background-size: 200px;
+		background-repeat: no-repeat;
+		margin-bottom: 50px;
+		margin: 4px;
+		border: 1px solid gray;
+		border-radius: 20px;
+		box-shadow: 4px 4px 4px 4px #9596ce6a;
+}
+.all #ph{
+		position: sticky;
+		top: 80px;
+		left: auto;
+		right: auto;
+ font-weight: bolder;		
+}
+
+.all .pro1 h1{
+		font-size: 24px;
+		font-weight: bolder;
+		color: aqua;
+		text-align: center
+}
+.all .pro1 h1 hr{
+		display: block;
+		font-size: 24px;
+}
+.all .pro1 p{
+		font-weight: bolder;
+		color: blue;
+		line-height: 20px;
+		text-align: center
+}
+.all .pro1 .a{
+		margin-top: 140px;
+}
+.all .pro1 a{
+		text-decoration: none;
+}
+.d{
+		height: 10px;
+		width: 300px;
+		background: #0802e0;
+		margin: 13px 15px 5px 20px;
+		border-radius: 5px;
+}
+footer{
+		display: block;
+		width:auto;
+ background: linear-gradient(to left bottom, #376183f5,#313280,#533474);
+		padding-bottom: 4px;
+}
+footer a{
+		display: block;
+		text-decoration: none;
+		color: crimson;
+		font-weight: bolder;
+		text-align: center;
+}
+footer small{
+		display: block;
+		text-align: center;
+}
