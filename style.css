@@ -65,7 +65,7 @@ header #into h3{
 header #into h3 {
 		margin-top: 16px;
 		font-size: 18px;
-  background: linear-gradient(-90deg, #23ffbf,#00e74f,#a5e700);
+  background: linear-gradient(-90deg, #a0cfbf,#53e04f,#a507aa);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
